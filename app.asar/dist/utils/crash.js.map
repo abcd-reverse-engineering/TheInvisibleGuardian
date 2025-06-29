@@ -1,0 +1,1 @@
+{"version":3,"file":"crash.js","sourceRoot":"","sources":["../../src/utils/crash.ts"],"names":[],"mappings":";;AAAA,qCAAyC;AAEzC,SAAS,IAAI;IACT,wBAAa,CAAC,KAAK,CAAC;QAChB,WAAW,EAAE,KAAK;QAClB,WAAW,EAAE,WAAW;QACxB,SAAS,EAAE,mEAAmE;QAC9E,cAAc,EAAE,IAAI;KACvB,CAAC,CAAA;AACN,CAAC;AAEO,oBAAI"}

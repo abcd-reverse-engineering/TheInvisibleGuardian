@@ -1,0 +1,30 @@
+{
+  "name": "TheInvisibleGuardian",
+  "version": "1.0.0",
+  "description": "A super cool game",
+  "scripts": {
+    "compile": "tsc",
+    "start": "npm run compile && electron ./dist/main.js",
+    "package-win": "npm run compile && electron-packager ./ TheInvisibleGuardian --out ./output --app-version 1.0.0 --overwrite --platform=win32 --arch=ia32 --arch=x64 --icon=icon/ico.ico --asar.unpackDir=node_modules/greenworks/**",
+    "package-mac": "npm run compile && electron-packager ./ TheInvisibleGuardian --out ./output --app-version 1.0.0 --overwrite --icon=icon/ico.icns --asar.unpackDir=node_modules/greenworks/**"
+  },
+  "keywords": [
+    "Electron",
+    "The Invisible Guardian"
+  ],
+  "main": "./dist/main.js",
+  "author": "NPC Studio",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^3.1.1",
+    "electron-packager": "^12.2.0",
+    "electron-rebuild": "^1.8.2",
+    "tslint": "^5.11.0",
+    "typescript": "^3.1.6"
+  },
+  "dependencies": {
+    "@sentry/electron": "^0.14.0",
+    "greenworks": "git+https://github.com/greenheartgames/greenworks.git",
+    "loudness": "^0.3.0"
+  }
+}

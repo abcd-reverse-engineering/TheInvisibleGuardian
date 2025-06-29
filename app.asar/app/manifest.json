@@ -1,0 +1,23 @@
+{
+	"initial": [
+		"./js/egret.min_f1f027d7.js",
+		"./js/egret.web.min_2dd0bd72.js",
+		"./js/game.min_45aa06f6.js",
+		"./js/eui.min_4f767512.js",
+		"./js/assetsmanager.min_70d22011.js",
+		"./js/tween.min_6c5a88f9.js",
+		"./js/dragonBones.min_6252b9c4.js",
+		"./js/protobuf.min_3d33043a.js",
+		"./js/struct.min_5c3b75c1.js",
+		"./js/iVideo.min_7c4aaa1.js",
+		"./js/MsePlayer.min_2fcd4e9d.js",
+		"./js/workerize.min_e1efd497.js",
+		"./js/mouse.min_c171ee8c.js",
+		"./js/logger.min_f0b88a10.js",
+		"./js/hls.min_5343af61.js"
+	],
+	"game": [
+		"./js/default.thm_912f31b5.js",
+		"./js/main.min_45e0c64d.js"
+	]
+}
