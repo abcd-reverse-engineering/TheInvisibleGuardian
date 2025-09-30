@@ -1,5 +1,13 @@
 # 《隐形守护者》（*The Invisible Guardian*）游戏客户端源码和资源文件合集
 
+## 相关链接
+
+https://store.steampowered.com/bundle/9867/__The_Invisible_Guardian_Complete_Season/
+
+https://store.steampowered.com/app/998940/_The_Invisible_Guardian/
+
+https://store.steampowered.com/app/1012220/_The_Invisible_Guardian__610/
+
 ## 解包项目
 
 - resources/app.asar
