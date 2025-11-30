@@ -1,5 +1,7 @@
 # 《隐形守护者》（*The Invisible Guardian*）游戏客户端源码和资源文件合集
 
+部分源码经过了最小化和混淆。
+
 ## 相关链接
 
 https://store.steampowered.com/bundle/9867/__The_Invisible_Guardian_Complete_Season/
